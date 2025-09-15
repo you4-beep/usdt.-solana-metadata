@@ -1,6 +1,6 @@
 {
   "name": "USDT.",
-  "symbol": "USDT.",
+  "symbol": "USDT",
   "description": "USDT. Token on Solana - 100,000,000 supply, 6 decimals.",
   "image": "https://raw.githubusercontent.com/you4-beep/usdt.-solana-metadata/main/USDT.-1.png",
   "extensions": {
